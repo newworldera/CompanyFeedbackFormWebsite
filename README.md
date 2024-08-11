@@ -1,39 +1,18 @@
-# Day-16-Awesome-Feedback-Form
+# Company Feedback Form Website
+Embarking on the journey to enhance your web development skills through hands-on projects is an exciting and rewarding experience. This approach not only solidifies your understanding of fundamental concepts but also exposes you to real-world challenges and problem-solving scenarios. By engaging in a variety of projects, from simple static websites to complex, dynamic web applications, you will gain practical experience in HTML, CSS, JavaScript, and backend technologies. Each project serves as a stepping stone, building your confidence and competence in coding, design, and user experience.
 
-Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
-
-Live Demo - https://quantumcoding123.github.io/Day-16-Awesome-Feedback-Form/
+Live Demo - https://newworldera.github.io/CompanyFeedbackFormWebsite/
 
 # Join Us
+GitHub-https://github.com/newworldera
 
-GitHub-https://github.com/QuantumCoding123
+YouTube-https://www.youtube.com/channel/UCOQjw35DxJYhiP8d_m8dTmQ
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+Instagram - https://instagram.com/new_world_era_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==
 
-Instagram - https://www.instagram.com/quantumcoding123
+Telegram-https://t.me/+t73Q26ORYWRkYWQ1
 
-Telegram - https://t.me/QuantumCoding123
+Whatsapp- https://whatsapp.com/channel/0029VafLdr6EawdzpspHgb0O
 
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
-
-With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
-
-Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
-
-# Output - 1
-
-![Screenshot (68)](https://github.com/QuantumCoding123/Day-16-Awesome-Feedback-Form/assets/166281221/46c07c55-9c92-40ad-913f-f487511b0f62)
-
-
-# Output - 2
-
-![Screenshot (70)](https://github.com/QuantumCoding123/Day-16-Awesome-Feedback-Form/assets/166281221/5424a568-03bf-4f2f-9b61-f8e6bafe9682)
-
-
-# Output - 3
-
-![Screenshot (72)](https://github.com/QuantumCoding123/Day-16-Awesome-Feedback-Form/assets/166281221/089d8ddf-c33c-43e0-8a8f-83c47785e813)
-
-
-
-
+# Output 1
+![Screenshot 2024-08-12 014838](https://github.com/user-attachments/assets/0a2f5a77-6609-4292-99c0-0ca940b95603)
